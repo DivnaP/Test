@@ -1,6 +1,6 @@
 neki
 <<<<<<< HEAD
 tekst3
-=======
+GGskadjasd
 tekst2
 >>>>>>> b2ed0b93abb0df2d21d767e92be39c0f9e1539d1
