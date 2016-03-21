@@ -1,11 +1,3 @@
-neki
-tekst3
-<<<<<<< HEAD
-===poyyy
-<<<<<<< Updated upstream
-=======
-GGskadjasd
-=======
->>>>>>> Stashed changes
->>>>>>> 89ecdf90edf72b61d1150c551fe7f7238d07fdc6
-tekst2
+ssadjkksajd
+dasdasdasd
+asdasd
