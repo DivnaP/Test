@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 asda
 asd
 asd
 asd
 sad
 ass
+=======
+1111
+2222 ola la
+3333
+>>>>>>> e18727773e9ed2bb5629d186394cd64475480726
