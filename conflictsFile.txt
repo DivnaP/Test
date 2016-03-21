@@ -1,3 +1,7 @@
 ssadjkksaj
 dasdasdasdj222222push push push push!!!
+<<<<<<< HEAD
 asdasd
+=======
+asdasd
+>>>>>>> 191e21a33a681e088f8f55318c0d631e47a50555
